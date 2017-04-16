@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Collection of Reasons Why I Want to Become Your Next Support Engineer</title>
+    <link>http://example.org/</link>
+    <description>Recent content on A Collection of Reasons Why I Want to Become Your Next Support Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Apr 2017 18:32:36 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Generic Response to A Succinct User Ticket &#39;site won&#39;t build&#39; </title>
+      <link>http://example.org/2017/04/a-generic-response-to-a-succinct-user-ticket-site-wont-build/</link>
+      <pubDate>Mon, 17 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/a-generic-response-to-a-succinct-user-ticket-site-wont-build/</guid>
+      <description>My two main goals are to establish immediate action points for troubleshooting, as well as prompting the user to provide specific information that will help trace to the root of the problem as efficiently as possible.  “Hello _______, I’m sorry to hear about the issues with your site. I’ll provide a few steps for troubleshooting, and if you could provide me with the static site generator you’re using, that will aid in making sure your configuration files are set up properly prior to running the build.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up a Redirect to Query Params </title>
+      <link>http://example.org/2017/04/setting-up-a-redirect-to-query-params/</link>
+      <pubDate>Mon, 17 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/setting-up-a-redirect-to-query-params/</guid>
+      <description>I set a time cap on this project for the weekend, and unfortunately hit my allotted cap before implementing a routing redirect. I am definitely curious about the best way to implement a redirect that changes the route into query parameters though!
+I looked into the alias feature in Hugo but it didn&amp;rsquo;t seem like the best solution, as it&amp;rsquo;s intended for redirects within the same site domain, where in this case I&amp;rsquo;d want to launch an external Google search.</description>
+    </item>
+    
+    <item>
+      <title>The Critical Importance of SSL/TLS Encryption</title>
+      <link>http://example.org/2017/04/the-critical-importance-of-ssl/tls-encryption/</link>
+      <pubDate>Sun, 16 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/the-critical-importance-of-ssl/tls-encryption/</guid>
+      <description>Using SSL/TLS with HTTP is incredibly important because there are myriad ways for individuals/organizations to intercept or read data if the SSL connection is not established. Especially with recent Internet policy changes, it’s unclear how many 3rd parties can access individual browser data if HTTPS is not enforced. Even if an application does not handle confidential information like social security numbers of financial transactions, users’ behavior can be compromised and studied through their logged metadata.</description>
+    </item>
+    
+    <item>
+      <title>Two Challenges to Personal DNS Configuration</title>
+      <link>http://example.org/2017/04/two-challenges-to-personal-dns-configuration/</link>
+      <pubDate>Sun, 16 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/two-challenges-to-personal-dns-configuration/</guid>
+      <description>Challenge #1: The connection between SOA records, NS(name server) records, and A (address) records.
+From anecdotal experience, more people are familiar with the concept of an IP address and a domain name as individual concepts, but don’t understand how they’re related. Explaining the mapping between IP address numbers and name servers (what happens when you type in a URL and hit ‘search’) is important to establish before diving into the DNS record relationships.</description>
+    </item>
+    
+    <item>
+      <title>Any Suggestions on Improving This Interview Process?</title>
+      <link>http://example.org/2017/04/any-suggestions-on-improving-this-interview-process/</link>
+      <pubDate>Sat, 15 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/any-suggestions-on-improving-this-interview-process/</guid>
+      <description>I definitely would put this exercise near the top of “most enjoyable interview experiences” relative to other tests I’ve worked through (i.e., timed assessments on HackerRank) because of it’s flexibility and strong relevance to the role. I enjoy creating sample work or working through exercises. Even if it’s determined that we’re not a mutual fit at a point in the process, I feel like I benefitted from the experience regardless, and the work I completed wasn’t arbitrary.</description>
+    </item>
+    
+    <item>
+      <title>How Did I Make This Site, What Tools Were Used, and Were There Challenges?</title>
+      <link>http://example.org/2017/04/how-did-i-make-this-site-what-tools-were-used-and-were-there-challenges/</link>
+      <pubDate>Sat, 15 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/how-did-i-make-this-site-what-tools-were-used-and-were-there-challenges/</guid>
+      <description>To be completely forthcoming, I started off exploring Jekyll for a bit but changed to Hugo. Ruby is my strongest language which would result in the least amount of time getting up to speed with the configurations in Jekyll, but I had heard a lot about Hugo and also had only glanced at Go before. I also disliked how Jekyll comes configured specifically for a ‘Post’ style of blog right out of the box.</description>
+    </item>
+    
+    <item>
+      <title>The Best Part of Tech Support</title>
+      <link>http://example.org/2017/04/the-best-part-of-tech-support/</link>
+      <pubDate>Fri, 14 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/the-best-part-of-tech-support/</guid>
+      <description>Tech support creates a mutually beneficial relationship in a manner that is hard to find in other roles. I enjoy searching for patterns in bugs and user feedback to expedite a solution, and to ideally solve the issue from the root to address any systemic symptoms caused by the bug. The user experiences something between mild relief to radiating gratitude when their issue is resolved and they walk away with greater clarity.</description>
+    </item>
+    
+    <item>
+      <title>Favorite / Least Favorite Aspects of Tech Support</title>
+      <link>http://example.org/2017/04/favorite-/-least-favorite-aspects-of-tech-support/</link>
+      <pubDate>Thu, 13 Apr 2017 18:32:36 -0700</pubDate>
+      
+      <guid>http://example.org/2017/04/favorite-/-least-favorite-aspects-of-tech-support/</guid>
+      <description>Q) What are my 5 top favorite/least favorite activities? 
+The Top 5   Set up my own copy of several static site frameworks for debugging   Analyze thousands of support tickets to spot trends to improve our product  Work with the development team to help design a new feature based on feedback from customers  Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub  Debug a customer&amp;rsquo;s build using a programming language and framework that you&amp;rsquo;ve never seen before (realistically I&amp;rsquo;m sure there wil be outstanding scenarios where executing this will be challenging, but still exciting in it&amp;rsquo;s ability to expand my problem solving skills.</description>
+    </item>
+    
+  </channel>
+</rss>

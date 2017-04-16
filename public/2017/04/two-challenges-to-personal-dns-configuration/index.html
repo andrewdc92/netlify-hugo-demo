@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Two Challenges to Personal DNS Configuration" />
+<meta property="og:description" content="Challenge #1: The connection between SOA records, NS(name server) records, and A (address) records.
+From anecdotal experience, more people are familiar with the concept of an IP address and a domain name as individual concepts, but don’t understand how they’re related. Explaining the mapping between IP address numbers and name servers (what happens when you type in a URL and hit ‘search’) is important to establish before diving into the DNS record relationships." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/2017/04/two-challenges-to-personal-dns-configuration/" />
+
+
+
+<meta property="article:published_time" content="2017-04-16T18:32:36-07:00"/>
+<meta property="article:modified_time" content="2017-04-16T18:32:36-07:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:text:title" content="Two Challenges to Personal DNS Configuration"/>
+<meta name="twitter:title" content="Two Challenges to Personal DNS Configuration"/>
+<meta name="twitter:description" content="Challenge #1: The connection between SOA records, NS(name server) records, and A (address) records.
+From anecdotal experience, more people are familiar with the concept of an IP address and a domain name as individual concepts, but don’t understand how they’re related. Explaining the mapping between IP address numbers and name servers (what happens when you type in a URL and hit ‘search’) is important to establish before diving into the DNS record relationships."/>
+
+<meta name="generator" content="Hugo 0.20" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Two Challenges to Personal DNS Configuration",
+  "url": "http://example.org/2017/04/two-challenges-to-personal-dns-configuration/",
+  "wordCount": "270",
+  "datePublished": "2017-04-16T18:32:36-07:00",
+  "dateModified": "2017-04-16T18:32:36-07:00",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Cordivari"
+  }
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://example.org/2017/04/two-challenges-to-personal-dns-configuration/">
+
+    <title>Two Challenges to Personal DNS Configuration | A Collection of Reasons Why I Want to Become Your Next Support Engineer</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://example.org/css/style.css" rel="stylesheet" integrity="sha384-CBHEXFKdMsTRFhEu0HSP9oETZoVpnz1mozAPqhfpxMQkda7lNJlqsQdYB30287Ka" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://example.org/">Home</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://example.org/" rel="home">A Collection of Reasons Why I Want to Become Your Next Support Engineer</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://example.org/2017/04/two-challenges-to-personal-dns-configuration/">Two Challenges to Personal DNS Configuration</a></h2>
+    <p class="blog-post-meta"><time datetime="2017-04-16T18:32:36-07:00">Sun Apr 16, 2017</time> by Andrew Cordivari</p>
+  </header>
+  <p>Challenge #1: The connection between SOA records, NS(name server) records, and A (address) records.</p>
+
+<p>From anecdotal experience, more people are familiar with the concept of an IP address and a domain name as individual concepts, but don’t understand how they’re related. Explaining the mapping between IP address numbers and name servers (what happens when you type in a URL and hit ‘search’) is important to establish before diving into the DNS record relationships. Once the concept of mapping is established, I can work with the user to run terminal commands to display and configure their A  &amp; CNAME records. If we share understanding of the aforementioned records, understanding PTR records should be clear and we can discuss more customization options if they’re interested.</p>
+
+<p>Challenge #2: Selecting the name server software</p>
+
+<p>Determining the users&rsquo; flavor of Linux/Unix before diving into software choices (Bind, powerDNS, djbdns, dnsmasq, etc). I would provide an existing resource (like a better-formatted version of this: <a href="https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software">https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software</a>) or create a custom document comparing/contrasting some of the popular DNS software choices.  For OSX users, if they’re not familiar, I’d recommend setting up Homebrew because it is an easy tool for installing software (can also be used to install DNS software like Bind, along with some of the popular static site generators like Hugo).</p>
+
+<p>Configuring the name server to help recognize and prevent phishing/cache poisoning would also be a priority for certain clients, and I&rsquo;d need to communicate the importance of properly setting up the various configurations in Bind, for example. The user should be comfortable pinging their DNS as a basic test for connectivity whenever they encounter an issue.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Share</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fexample.org%2f2017%2f04%2ftwo-challenges-to-personal-dns-configuration%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fexample.org%2f2017%2f04%2ftwo-challenges-to-personal-dns-configuration%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fexample.org%2f2017%2f04%2ftwo-challenges-to-personal-dns-configuration%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fexample.org%2f2017%2f04%2ftwo-challenges-to-personal-dns-configuration%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 offset-sm-1 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      Website created by <a href="https://github.com/andrewdc92">@andrewdc92 <br>
+        <br>
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      
+      </p>
+      <p>
+      <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.org/2017/04/a-generic-response-to-a-succinct-user-ticket-site-wont-build/</loc>
+    <lastmod>2017-04-17T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/setting-up-a-redirect-to-query-params/</loc>
+    <lastmod>2017-04-17T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/the-critical-importance-of-ssl/tls-encryption/</loc>
+    <lastmod>2017-04-16T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/two-challenges-to-personal-dns-configuration/</loc>
+    <lastmod>2017-04-16T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/any-suggestions-on-improving-this-interview-process/</loc>
+    <lastmod>2017-04-15T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/how-did-i-make-this-site-what-tools-were-used-and-were-there-challenges/</loc>
+    <lastmod>2017-04-15T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/the-best-part-of-tech-support/</loc>
+    <lastmod>2017-04-14T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/04/favorite-/-least-favorite-aspects-of-tech-support/</loc>
+    <lastmod>2017-04-13T18:32:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-04-17T18:32:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-04-17T18:32:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
