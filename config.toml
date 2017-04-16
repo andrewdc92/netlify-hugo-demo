@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "A Collection of Reasons Why I Want to Become Your Next Support Engineer"
+theme = "hugo-theme-bootstrap4-blog"
+
+paginate = 10
+
+
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+
+
+[Params]
+  Author = "Andrew Cordivari"
+
+  date_format = "Mon Jan 02, 2006"
